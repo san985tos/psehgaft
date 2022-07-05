@@ -3,11 +3,11 @@
 ![Psehgaft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psehgaft&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on Red Hat
-- 🌱 I’m currently learning Cloud / Open FaaS
-- 👯 I’m looking to collaborate on Openshift / Open FaaS / Opensourse
-- 🤔 I’m looking for help with Openshift / Open FaaS / Opensourse
-- 💬 Ask me about Openshift / Open FaaS / Opensourse
-- 📫 How to reach me: psehgaft@
+- 🌱 I’m currently learning Cloud / FaaS
+- 👯 I’m looking to collaborate on Openshift / FaaS / Opensourse
+- 🤔 I’m looking for help with Openshift / FaaS / Opensourse
+- 💬 Ask me about Openshift /  FaaS / Opensourse
+- 📫 How to reach me: @psehgaft
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: always happy to help
 
