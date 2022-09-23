@@ -1,4 +1,4 @@
-### Hi there 👋 person_fencing
+### Hi there 👋 
 
 ![Psehgaft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psehgaft&show_icons=true&theme=radical)
 
