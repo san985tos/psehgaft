@@ -31,9 +31,9 @@ Here are some ideas to get you started:
   hosts: rhel,arch,macos,coreos
   become: yes
   vars:
-    main_certs:
+    - main_certs:
       "RH Cert: https://rhtapps.redhat.com/verify?certId=170-241-434
-    check_me_on:
+    - check_me_on:
       "credly": https://www.credly.com/users/psehgaft/badges
   tasks:
     - name: 'Current employment'
