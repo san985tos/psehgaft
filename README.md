@@ -24,16 +24,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ---
 - name: "Heber Romero, about me:"
   hosts: rhel,arch,macos,coreos
   become: yes
   vars:
-    - main_certs:
+    main_certs:
       "RH Cert: https://rhtapps.redhat.com/verify?certId=170-241-434
-    - check_me_on:
+    check_me_on:
       "credly": https://www.credly.com/users/psehgaft/badges
   tasks:
     - name: 'Current employment'
@@ -57,3 +56,7 @@ Here are some ideas to get you started:
         - Python + Flask 🐍
         - C# .Net + ASP MVC 🪟
         - Kotlin + Android 📱
+
+-->
+
+
