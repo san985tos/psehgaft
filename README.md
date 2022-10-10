@@ -1,11 +1,12 @@
 # Heber Romero
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-### Hi there 👋 
+## Hi there 👋 
 
 ![Psehgaft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psehgaft&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on Red Hat
+## 🔭 I’m currently working on ...
+* Red Hat
 - 🌱 I’m currently learning Cloud / FaaS
 - 👯 I’m looking to collaborate on Openshift / FaaS / Opensourse
 - 🤔 I’m looking for help with Openshift / FaaS / Opensourse
