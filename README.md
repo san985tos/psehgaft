@@ -3,7 +3,7 @@
 
 ### Hi there 👋 
 
-![Psehgaft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psehgaft&show_icons=true&theme=dark)
+![Psehgaft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psehgaft&show_icons=true&theme=red)
 
 - 🔭 I’m currently working on Red Hat
 - 🌱 I’m currently learning Cloud / FaaS
