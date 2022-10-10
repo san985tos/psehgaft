@@ -1,23 +1,67 @@
 # Heber Romero
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-## Hi there 👋 
-
+- Hi there 👋
+- [![LinkedIn][linkedin-shield]][linkedin-url]
+- 😄 Pronouns: he / his
+- 📫 How to reach me: @psehgaft
+ 
 ![Psehgaft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psehgaft&show_icons=true&theme=dark)
 
 ## 🔭 I’m currently working on ...
 * Red Hat
-** Containzerizing Applications
-** FaaS
-** DevSecOps
-** App Dev CNDF
-## 🌱 I’m currently learning Cloud / FaaS
-- 👯 I’m looking to collaborate on Openshift / FaaS / Opensourse
-- 🤔 I’m looking for help with Openshift / FaaS / Opensourse
-- 💬 Ask me about Openshift /  FaaS / Opensourse
-- 📫 How to reach me: @psehgaft
-- 😄 Pronouns: he / his
-- ⚡ Fun fact: always happy to help
+* Containzerizing Applications
+* FaaS
+* DevSecOps
+* App Dev CNDF
+
+## 🌱 I’m currently learning ...
+* Computer systems
+* Dev Apps
+* Cloud and Hybrid cloud
+
+## 👯 I’m looking to collaborate on ...
+* Openshift / FaaS / Opensourse
+
+## 🤔 I’m looking for help with Openshift / FaaS / Opensourse
+
+## 💬 Ask me about Openshift /  FaaS / Opensourse
+
+## ⭐️ Notable Projects and Contributions ...
+
+## ⚡ Fun fact: always happy to help
+
+```yaml
+- name: "Heber Romero, about me:"
+  hosts: rhel,arch,macos,coreos
+  become: yes
+  vars:
+    main_certs:
+      "RH Cert: https://rhtapps.redhat.com/verify?certId=170-241-434
+    check_me_on:
+      "credly": https://www.credly.com/users/psehgaft/badges
+  tasks:
+    - name: 'Current employment'
+      include_role:
+        name: Sr_Middleware_DevOps_Container_DevApps_Consultant
+        tasks_from: Red_Hat_since_Feb_2016.yml
+    - name: 'Abstract'
+      set_fact:
+        abstract: >-
+          Looking forward to delivering 📩 quality experiences and solutions, 
+          to advocate containers 📦, cloud ☁️ and open-source 📖 adoptions.
+          My priority is never to stop learning 🎓.
+    - name: 'Display skills'
+      debug:
+        msg: "✅ {{ +52 2222939753 }}"
+      loop:
+        - Podman + Docker + Openshift + K8s ☸️
+        - Ansible + Terraform 🅰️
+        - Java + Spring(Boot) Quarkus 🍃
+        - JavaScript + Node + React Vue Angular ⚛️
+        - Python + Flask 🐍
+        - C# .Net + ASP MVC 🪟
+        - Kotlin + Android 📱
+```
+
 
 [linkedin-url]: https://www.linkedin.com/in/psehgaft/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
