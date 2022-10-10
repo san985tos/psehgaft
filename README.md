@@ -14,6 +14,9 @@
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: always happy to help
 
+[linkedin-url]: https://www.linkedin.com/in/psehgaft/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
 <!--
 **psehgaft/psehgaft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
