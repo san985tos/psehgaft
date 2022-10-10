@@ -7,7 +7,11 @@
 
 ## 🔭 I’m currently working on ...
 * Red Hat
-- 🌱 I’m currently learning Cloud / FaaS
+** Containzerizing Applications
+** FaaS
+** DevSecOps
+** App Dev CNDF
+## 🌱 I’m currently learning Cloud / FaaS
 - 👯 I’m looking to collaborate on Openshift / FaaS / Opensourse
 - 🤔 I’m looking for help with Openshift / FaaS / Opensourse
 - 💬 Ask me about Openshift /  FaaS / Opensourse
