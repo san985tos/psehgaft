@@ -11,6 +11,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=psehgaft&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=psehgaft&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=psehgaft&theme=nord_dark)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/psehgaft/bbfce31e0217a3689c8d961a356cb10d/)
 
 ## 🔭 I’m currently working on ...
 * Red Hat
