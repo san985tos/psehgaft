@@ -12,7 +12,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=psehgaft&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=psehgaft&theme=nord_dark)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/psehgaft/d52e866c8338ce7d5e819fcf4108f6a1/)
-[![Psehgaft's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/psehgaft/github-readme-stats)
+[![Psehgaft's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=psehgaft)](https://github.com/psehgaft/github-readme-stats)
 
 ## 🔭 I’m currently working on ...
 * Red Hat
