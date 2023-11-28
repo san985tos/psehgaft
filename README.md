@@ -6,11 +6,11 @@
 - Psehgaft's GitHub Stats
  
 ![](https://github-readme-stats.vercel.app/api?username=psehgaft&show_icons=true&theme=shadow_red)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psehgaft&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=psehgaft&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=psehgaft&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=psehgaft&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=psehgaft&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psehgaft&theme=shadow_red)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=psehgaft&theme=shadow_red)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=psehgaft&theme=shadow_red)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=psehgaft&theme=shadow_red)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=psehgaft&theme=shadow_red)
 
 ## 🔭 I’m currently working on ...
 * Red Hat
